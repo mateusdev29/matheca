@@ -18,7 +18,7 @@ Tenho facilidade em transformar ideias em interfaces reais e utilizo boas práti
 ### 📈 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=BodeXX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=mateuscrismarketing&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </div>
 
 ---
