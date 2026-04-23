@@ -9,7 +9,7 @@
   📍 Salvador-BA, Brasil
 </p>
 
-Sou um desenvolvedor focado em **Front-end**, empenhado por criar interfaces modernas, responsivas e funcionais. Para mim, desenvolvimento vai além de código: meu objetivo é entregar experiências visuais de alto nível, com performance e usabilidade.
+Sou um desenvolvedor focado em **Front-end**, empenhado em criar interfaces modernas, responsivas e funcionais. Para mim, desenvolvimento vai além de código: meu objetivo é entregar experiências visuais de alto nível, com performance e usabilidade.
 
 Tenho facilidade em transformar ideias em interfaces reais e utilizo boas práticas de desenvolvimento, design e ferramentas modernas para criar aplicações eficientes e escaláveis.
 
